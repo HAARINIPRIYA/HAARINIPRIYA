@@ -65,8 +65,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAARINIPRIYA&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HAARINIPRIYA&layout=compact&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HAARINIPRIYA&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=HAARINIPRIYA&layout=compact&theme=dracula" />
 </div>
 
 ###
