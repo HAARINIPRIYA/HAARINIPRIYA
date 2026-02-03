@@ -60,13 +60,17 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HAARINIPRIYA&show_icons=true&theme=dracula" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=HAARINIPRIYA&layout=compact&theme=dracula" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=HAARINIPRIYA&show_icons=true&theme=dracula&count_private=true" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAARINIPRIYA&layout=compact&theme=dracula" 
+    height="180"
+  />
 </div>
 
 ###
